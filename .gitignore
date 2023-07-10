@@ -1,0 +1,5 @@
+.dbeaver
+datagrip-settings*.zip
+datagrip-settings/options/dataSources.xml
+node_modules
+**/.DS_Store
